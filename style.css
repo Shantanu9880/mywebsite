@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:Playfair Display;
+    font-size: 32px;
+}
+
+.top-container{
+    background-color: #FFB84C;    
+}
+
+.pos
+{
+
+    margin: 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: dimgrey;
+    font-size: 150px;
+}
+.cld
+{
+    position: relative;
+    top: 250px;
+    right: 800px;
+    bottom: 100px;
+}
+.cloud2
+{
+    position: relative;
+    top: 100px;
+    left: 600px;
+}
+.second-text
+{
+    font-family: 'Crimson Pro', serif;
+}
+
+.font11
+{
+    font-family: 'Barlow', sans-serif;
+    font-size: 22px;
+    color: #C92C6D;
+}
+
+.abs
+{
+    font-family: 'Gloock', serif;
+    color: dimgrey;
+    font-size: 48px;
+}
+.tbl
+{
+    padding: 80px;
+    margin: 20px;
+}
+
+.bottom-container
+{
+    background-color:goldenrod;
+    margin: 20px;
+    font-size: 24px;
+}
+
+.tbl1
+{
+    margin: 20px;
+    padding: 20px;
+}
+
+.table2
+{
+    margin: 40px;
+    padding: 50px;
+}
